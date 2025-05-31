@@ -1,7 +1,7 @@
 # Hotel_Booking_Analysis
 Predictive model to forecast hotel booking cancellations. Uses logistic regression and handles imbalanced data to optimize occupancy &amp; minimize revenue loss. Evaluates with F1, Precision, Recall, &amp; Kappa.
 
-Project Description for GitHub Repository: Hotel Booking Cancellation Prediction
+Project Description: Hotel Booking Cancellation Prediction
 
 This repository contains the analysis and predictive modeling work for forecasting hotel booking cancellations.
 
